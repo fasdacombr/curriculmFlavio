@@ -1,10 +1,5 @@
-# TulioFaria.dev (resume)
 
-[![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/tuliofariadev.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/tuliofariadev)
-
-Este projeto é o código-fonte do curriculo online de Tulio Faria, disponível em: https://tuliofaria.dev
-
-![Preview](https://github.com/tuliofaria/tuliofaria.dev/blob/master/print.png?raw=true)
+Este projeto é o código-fonte do curriculo online de Flávio Augusto, disponível em: https://
 
 ## Início
 
@@ -19,10 +14,6 @@ npm install
 npm run dev
 ```
 
-## Layout:
-
-Criamos o layout utilizando o Figma. Você pode encontrar o arquivo [aqui](https://www.figma.com/file/9bUM0ZS9hzXS9eh9VMXEbc/resume?node-id=0%3A1).
-
 ## Colocando em produção:
 
 Este projeto pode ser colocado em produção utilizando o Vercel (sem configurações extras).
@@ -34,11 +25,6 @@ Este projeto pode ser colocado em produção utilizando o Vercel (sem configura�
 rapidly building custom designs.
 * [Figma](https://figma.com/) - Online prototyping tool.
 * [PurgeCSS](https://purgecss.com/) - Remove unused CSS. 
-
-## Author:
-
-* **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
-
 
 ## Licença
 
