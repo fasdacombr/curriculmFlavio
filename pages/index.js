@@ -3,6 +3,8 @@ import PageHead from '../components/PageHead'
 import Hero from '../components/Hero'
 import Summary from '../components/Summary'
 import Education from '../components/Education'
+import Curso from '../components/Cursos'
+import Empresa from '../components/HistoricoProfissional'
 import Footer from '../components/Footer'
 import Repos from '../components/Repos'
 import getUser from '../utils/getUser'
@@ -14,6 +16,8 @@ const Index = (props) => {
             <Hero />
             <Summary />
             <Education />
+            <Curso />
+            <Empresa />
             <Repos user={props.user} repos={props.repos} />
             <Footer currentDate={props.currentDate} />
         </div>

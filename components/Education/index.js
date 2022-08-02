@@ -4,18 +4,8 @@ import EducationItem from './EducationItem'
 const degrees = [
   {
     degree: 'Graduação',
-    subject: 'Sistema de Informação',
+    subject: 'Sistema de Informação | 2013 - 2017',
     institution: 'Universidade Estácio de Sá'
-  },
-  {
-    degree: 'FullStack Master',
-    subject: 'Desenvolvedor Fullstack JavaScript',
-    institution: 'Dev Pleno'
-  },
-  {
-    degree: 'C# com .net',
-    subject: 'Fundamentos C#',
-    institution: 'balta.io'
   }
 ]
 
